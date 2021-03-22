@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Finnkino</string>
+    
+    <string-array name="Teatterit">
+        <item>Helsinki</item>
+        <item>Jyväskylä</item>
+        <item>Oulu</item>
+        <item>Lahti</item>
+        <item>Kuopio</item>
+    </string-array>
+
+    <string-array name="Pvm">
+        <item>Tänään</item>
+        <item>22.3.2021</item>
+        <item>23.3.2021</item>
+        <item>24.3.2021</item>
+        <item>25.3.2021</item>
+    </string-array>
+</resources>
